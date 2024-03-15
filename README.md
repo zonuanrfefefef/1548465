@@ -1,5 +1,13 @@
 # 1548465
 隨機檔案名生成 可自選附檔名   (參考)    
+
+
+
+
+
+
+
+
 import tkinter as tk
 import random
 import string
